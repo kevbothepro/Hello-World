@@ -1,2 +1,4 @@
 # Hello-World
-dankmemesxddddd
+my first repository!
+
+Hi! This is my first attempt at repositories and branches!
